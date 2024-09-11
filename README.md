@@ -1,6 +1,6 @@
 # OOP_VKU
 
-Đây là repository lưu trữ bài tập lập trình hướng đối tượng VKU (nằm nhất). Cho các bạn tân sinh viên tham khảo.
+Đây là repository lưu trữ bài tập lập trình hướng đối tượng VKU (năm nhất). Cho các bạn tân sinh viên tham khảo.
 
 ### **Chi tiết**
 Repository sẽ là nơi lưu các bài tập các tuần và sẽ được cập nhật thường xuyên nếu như chủ repository có bài tập. Nếu bạn gặp vấn đề gì thì có thể tham khảo qua repository này.
