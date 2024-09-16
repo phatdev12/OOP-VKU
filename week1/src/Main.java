@@ -22,5 +22,14 @@ public class Main {
 
         // #5 Circle
         Circle.init(obj);
+
+        // #6 Trigonometry
+        Trigonometry.init(obj);
+
+        // #7 StrLength
+        StrLength.init(obj);
+
+        // #8 Square
+        Square.init(obj);
     }
 }
