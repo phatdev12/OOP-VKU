@@ -5,4 +5,4 @@ public class Main {
         int x = new Scanner(System.in).nextInt();
         System.out.println(Hamso.init(x));
     }
-}
+} 
